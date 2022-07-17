@@ -1,4 +1,8 @@
 /****
+Contest:2015, Samara SAU ACM ICPC Quarterfinal Qualification Contest
+Problem L
+
+
 We want to find two numbers a,b such that:
 1- a is multiple of m(a=n*x for an x)
 2- b is multiple of n(b=m*y for an y)
